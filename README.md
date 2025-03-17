@@ -25,3 +25,8 @@ To be able to login, you will need a "superuser". To create it, execute the foll
 ```bash
 docker compose run --rm webserver createsuperuser
 ```
+
+## Commands
+
+Here you will find a list of available commands: https://docs.paperless-ngx.com/administration/
+

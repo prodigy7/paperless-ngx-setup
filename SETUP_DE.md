@@ -1,4 +1,7 @@
-# Setup suggestions
+# Setup DE
+
+## Proposal
+Below is a list of possible document types and tags.
 
 | Document types    |
 | -------- |
